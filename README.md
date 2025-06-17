@@ -74,6 +74,8 @@ ANTHROPIC_API_KEY=
   - Update meeting summary with corresponding icon for Rain/snow, severe weather alerts, and high pollen count
   - Update meeting summary with traffic icon, and/or business closed icon
 
+![example](https://github.com/user-attachments/assets/2ac7ba2c-b15a-4d96-8140-d5afcdb7614a)
+
 
 
 
